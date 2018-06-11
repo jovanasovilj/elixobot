@@ -1,6 +1,6 @@
 # Elixobot
 
-**TODO: Add description**
+**Elixir bot**
 
 ## Installation
 
